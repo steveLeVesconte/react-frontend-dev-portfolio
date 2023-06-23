@@ -426,3 +426,13 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+
+.hide{
+	display: none;
+}
+
+@media only screen and (min-width: 1171px){
+.vertical-timeline-element-date{
+	font-size: 2rem !important;
+}
+}

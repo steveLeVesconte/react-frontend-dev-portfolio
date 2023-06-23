@@ -25,7 +25,7 @@ class Footer extends Component {
                 Copyright &copy;{" "}
                 {this.props.sharedBasicInfo
                   ? this.props.sharedBasicInfo.name
-                  : "???"}
+                  : "???"}  --  Based on portfolio template made by Dorota1997, available at <a href="https://github.com/Dorota1997/react-frontend-dev-portfolio" target="_blank" class="github-corner" aria-label="View source on GitHub">GitHub</a>
               </small>
             </div>
           </div>

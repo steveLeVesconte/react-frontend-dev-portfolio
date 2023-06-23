@@ -1,7 +1,8 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Steve LeVesconte. Welcome to “what I do”. On this site, I explain my personal development projects and show some of my professional work.",
+      "description_o": "👋 I'm Steve LeVesconte. Nonfictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +12,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Public Access Portal",
+        "startDate": "2016",
+        "description": "A continuing education database where you will find a list of courses which have been approved by NAB (National Association of Long Term Care Administrator Boards) and the Ohio Department of Aging.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/public-access/CeuCatelog2fixed.png",
+          "images/portfolio/public-access/CeuDetail2-1024x637.png"
         ],
         "url": "",
         "technologies": [
@@ -35,18 +36,19 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Payment Portal",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Online public portal allows customers (licensees and companies) to search for and pay their invoices online for the State of Ohio.  This system is used by Licensed Nursing Home Administrators, Nursing Home companies and Continuing Education Course Providers.  Users can search for their invoices by multiple criteria.  Users can see the status of their invoices (paid or not) and optionally pay them online with either major credit card or checking account.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/public-payment/payment-portal-1-1024x603.png",
+          "images/portfolio/public-payment/paymentsearch.png"
+
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-dot-net-plain",
+            "name": "Dotnet"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,12 +57,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Go Game - Azure ",
+        "startDate": "2017",
+        "description": "The purpose of the project is to provide an adequately rich domain for the exploration of multiple technologies. In my experience, many learning projects are too simple to challenge a developer to deeply exercise a technology. The developer can find themselves doing little more than repeating the pre-packaged solutions provided in tutorials.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/azure-go-game/play.png",
+          "images/portfolio/azure-go-game/search.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -81,9 +83,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Huntington National Bank",
+        "title": "Full Stack Developer",
+        "years": "July 2021 - May 2023",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -91,27 +93,87 @@
           "REST API",
           "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "ASP.NET MVC",
+          "XSLT",
+          "DB2",
+          ".NET Core"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Net Jets",
+        "title": "Senior Consultant",
+        "years": "January 2020 - March 2020 (COVID Ended Contract)",
         "mainTech": [
-          "Angular 7/8"
+          "WPF"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "WPF",
+          "C#",
+          "Rest",
+          "Web-sockets",
+          "AWS"
+        ]
+      },
+      {
+        "company": "Ohio Department of Aging",
+        "title": "Full Stack Developer",
+        "years": "August 2015 -  January 2021",
+        "mainTech": [
+          "ASP.Net MVC Core"
+        ],
+        "technologies": [
+          "REST API",
+          "Oracle",
           "JavaScript",
-          "DHTMLX Gantt"
+          "ASP.NET MVC Core",
+          "C#",
+          "Angular 7",
+          "ODATA"
+        ]
+      },
+      {
+        "company": "Ohio National Guard",
+        "title": "Full Stack Developer",
+        "years": "July 2013 - July 2015",
+        "mainTech": [
+          "ASP.Net MVC"
+        ],
+        "technologies": [
+          "C#",
+          "MS-SQL",
+          "WCF",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      },
+      {
+        "company": "Prudential Insurance - Jennison Accociates LLC",
+        "title": "Compliance Report Developer",
+        "years": "December 2009 - February 2012",
+        "mainTech": [
+          "SSRS"
+        ],
+        "technologies": [
+          "SSRS",
+          "MS-SQL",
+          "ASP.NET"
+        ]
+      },
+      {
+        "company": "AIMIA",
+        "title": "Full Stack Developer",
+        "years": "May 1997 - March 2009",
+        "mainTech": [
+          "ASP.NET"
+        ],
+        "technologies": [
+          "MS-SQL",
+          "ASP.NET",
+          "JavaScript",
+          "PhotoShop",
+          "CSS",
+          "IIS",
+          "ADO"
         ]
       }
     ]

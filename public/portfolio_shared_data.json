@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Steve LeVesconte",
+      "titles": [ "Full Stack Developer", "Technology Enthusiast" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/steveLeVesconte",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/steve-levesconte-32666712",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Shallow focus photography of computer codes photo – Free Code Ima.png"
     },
     "skills": {
       "icons": [
@@ -34,6 +34,11 @@
           "level": "80"
         },
         {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -44,8 +49,8 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": ".Net",
+          "class": "devicon-dotnetcore-plain",
           "level": "75"
         },
         {
@@ -59,8 +64,8 @@
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "MS Sql",
+          "class": "devicon-microsoftsqlserver-plain",
           "level": "60"
         }
       ]
